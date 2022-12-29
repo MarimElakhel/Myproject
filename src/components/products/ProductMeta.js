@@ -1,5 +1,7 @@
 import { Typography } from "@mui/material";
+import { BannerShopButton } from "../../styles/banner";
 import { ProductMetaWrapper } from "../../styles/product";
+import Button from "@mui/material";
 import '../../styles/product/product.css';
 export default function ProductMeta({ product, matches }) {
     return (
@@ -16,7 +18,8 @@ export default function ProductMeta({ product, matches }) {
         
         </Typography>
         
-        <button className="btn">Order Now</button>
+        
+        
       </ProductMetaWrapper>
     
       </>

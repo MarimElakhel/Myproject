@@ -147,7 +147,71 @@ export const products = [
         description: "Leather Crossbody Bag - Havana",
         image: "/images/products/bag23.jpg"
     },
+    {
+        id: 22,
+        name: "Black Plain Leather Sneakers - Men's Fashion",
+        price:297.50,
+        description: "Black Plain Leather Sneakers - Men's Fashion",
+        image: "/images/products/1.jpg"
+    },
+    {
+        id: 23,
+        name: "Servet Sneakers Comfort Sport Shoes For Women - Black - Servet El Turkey",
+        price:246.0,
+        description: "Servet Sneakers Comfort Sport Shoes For Women - Black - Servet El Turkey",
+        image: "/images/products/2.jpg"
+    },
+    {
+        id: 24,
+        name: " Shoozy Lace Up Sneakers - White With Black & Red Stripes",
+        price:149.0,
+        description: "Shoozy Lace Up Sneakers - White With Black & Red Stripes",
+        image: "/images/products/3.jpg"
+    },
+    {
+        id: 25,
+        name: "Starter Unisex Lace Up Sneaker - DarkGrey",
+        price:205.0,
+        description: "Starter Unisex Lace Up Sneaker - DarkGrey",
+        image: "/images/products/4.jpg"
+    },
+    {
+        id: 26,
+        name: "Sneakers Casual Shoes - White",
+        price:340.0,
+        description: "Sneakers Casual Shoes - White",
+        image: "/images/products/5.jpg"
+    },
+    {
+        id: 27,
+        name: "Servet Sneakers Comfort Sport Shoes For Women - Beige - Servet El Turkey",
+        price:159.0,
+        description: "Servet Sneakers Comfort Sport Shoes For Women - Beige - Servet El Turkey",
+        image: "/images/products/6.jpg"
+    },
+    {
+        id: 28,
+        name: "Fashion Men's Fashion Lace-up Sneakers-White",
+        price:385.0,
+        description: "Fashion Men's Fashion Lace-up Sneakers-White",
+        image: "/images/products/7.jpg"
+    },
 
+    {
+        id: 29,
+        name: "ADIDAS TENSAUR RUN SHOES GIRLS",
+        price:620.0,
+        description: "ADIDAS TENSAUR RUN SHOES GIRLS",
+        image: "/images/products/8.jpg"
+    },
+    
+    {
+        id: 30,
+        name: "Diadora EAGLE 2 SL Running Shoe Men - Navy",
+        price:895.0,
+        description: "Diadora EAGLE 2 SL Running Shoe Men - Navy",
+        image: "/images/products/9.jpg"
+    },
 
 
    

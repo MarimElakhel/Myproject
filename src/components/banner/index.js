@@ -11,7 +11,7 @@ return(
         <BannerContent>
             <Typography variant=" h6"> </Typography>
             <BannerTitle variant="h2">
-            Bags
+            Shop and Smile.
             </BannerTitle>
 
             <BannerDescription variant="subtitle">
